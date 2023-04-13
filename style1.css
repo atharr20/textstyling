@@ -1,0 +1,40 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-decoration: wavy;
+    font-style: oblique;
+}
+span {
+    color: mediumaquamarine;
+}
+h2 {
+    color: white;
+    background-color: purple;
+    font-style: italic;
+    text-align: center;
+}
+h3 {
+    color: black;
+    background-color: lightblue;
+    text-align: end;
+    text-decoration: underline;
+}
+
+
+/* input {
+    padding: 5px;
+    border-color: rebeccapurple;
+}
+input[type='text'] {
+    border: none;
+    border-bottom: 2px solid rebeccapurple;
+}
+input[type='submit'] {
+    color: white;
+    background-color: rebeccapurple;
+}
+
+h1 {
+    color: cyan;
+    background-color: grey;
+} */
